@@ -221,7 +221,7 @@ Shows validation loss comparison with and without Early Stopping.
 
 ## 🔹 9. Final Model Performance
 
-<img src="Plots/final.png" width="100%">
+<img src="Plots/final .png" width="100%">
 
 Final comparison of all models based on
 
